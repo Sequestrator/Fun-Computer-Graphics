@@ -1,3 +1,6 @@
+//Alex Steel
+//CS457 Computer Graphics Theory
+
 import java.awt.*;
 import java.awt.event.*;
 
