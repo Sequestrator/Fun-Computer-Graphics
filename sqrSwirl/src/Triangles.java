@@ -1,4 +1,5 @@
-// Triangles.java: This program draws 50 triangles inside each other.
+//Alex Steel
+//CS457 Computer Graphics Theory
 
 
 import java.awt.Canvas;
