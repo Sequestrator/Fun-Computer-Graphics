@@ -1,4 +1,6 @@
 // Triangles.java: This program draws 50 triangles inside each other.
+//http://www.physics.emory.edu/faculty/weeks//ideas/spiral.html
+//ToDo: http://www.physics.emory.edu/faculty/weeks//ideas/spiral2.html
 
 
 import java.awt.Canvas;
