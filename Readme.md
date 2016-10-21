@@ -1,4 +1,4 @@
-![Bombarding](https://hbr.org/resources/images/article_assets/2014/12/dec14_15_159737162.jpg)
+![Bombarding](http://www.strath.ac.uk/media/1newwebsite/departmentsubject/engineering-electronicandelectrical/departmentpagesimages/_Signal-Processing-Algorithms-&-Applications-Group-1600x600.jpg)
 
 # Fun-Computer-Graphics
 
