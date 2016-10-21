@@ -1,4 +1,4 @@
-![Bombarding](https://www.crowdanalytix.com/api/assets/download?path=blogs/15/file.jpg)
+![Bombarding](https://hbr.org/resources/images/article_assets/2014/12/dec14_15_159737162.jpg)
 
 # Fun-Computer-Graphics
 
