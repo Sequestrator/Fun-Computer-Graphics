@@ -1,4 +1,4 @@
-![Bombarding](https://cdn0.vox-cdn.com/thumbor/o1W7WSjwm46bEB5S0PBbuv3Tj1Q=/148x0:1768x1080/1280x854/cdn0.vox-cdn.com/uploads/chorus_image/image/47413330/the-simpsons-tv-series-cast-wallpaper-109911.0.0.jpeg)
+![Bombarding](https://pmcvariety.files.wordpress.com/2014/04/the-simpsons.jpg)
 
 # Fun-Computer-Graphics
 
