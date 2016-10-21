@@ -1,5 +1,7 @@
 //Alex Steel
 //CS457 Computer Graphics Theory
+//https://en.wikipedia.org/wiki/Spiral_of_Theodorus
+//http://www.physics.emory.edu/faculty/weeks//ideas/spiral.html
 
 
 import java.awt.Canvas;
