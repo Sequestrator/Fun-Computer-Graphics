@@ -26,6 +26,11 @@ n=rows, k=colums, q=line spacing
 #**REFERENCE**
 
 Animations are handled by the following try/catch exception
+- Bigger Number, slower print. Smaller Number, Faster Print.
+
+
+
+- Program will not close until ALL lines are printed. Remember to hit the Stop button above the console
 ```
 try 
 {
