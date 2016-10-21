@@ -10,9 +10,7 @@ Clone or download repository: https://github.com/Bombarding/Fun-Computer-Graphic
 
 
 All programs run as is. In order to Run Squares|SquaresAnim (ManySq or ManySqAnim), please go to the top toolbar in eclipse --> 
-#Run --> 
-#Run Configs --> 
-#2nd tab "Arguements" 
+#Run --> Run Configs --> 2nd tab "Arguements" 
 #//n=10, k=50, q=0.1
 #n=rows, k=colums, q=line spacing
 
