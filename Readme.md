@@ -1,4 +1,4 @@
-![Bombarding](http://cdn.whatismyipaddress.com/images-v4/hacking.png)
+![Bombarding](https://www.crowdanalytix.com/api/assets/download?path=blogs/15/file.jpg)
 
 # Fun-Computer-Graphics
 
