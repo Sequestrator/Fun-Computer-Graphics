@@ -3,6 +3,7 @@
 //CS457 Computer Graphics Theory
 //http://www.physics.emory.edu/faculty/weeks//ideas/spiral.html
 //ToDo: http://www.physics.emory.edu/faculty/weeks//ideas/spiral2.html
+//https://en.wikipedia.org/wiki/Spiral_of_Theodorus
 
 
 import java.awt.Canvas;
